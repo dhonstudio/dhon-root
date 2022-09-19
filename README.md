@@ -1,7 +1,3 @@
-# Dhon Root
-This is Dhon Studio's main repo, which integrates all projects done by Dhon Studio.
-
-## Wiki
 | Key Details | Description |
 | ------------- | ------------- |
 | Epic | Dhon Studio Root Project |
@@ -18,7 +14,7 @@ This is Dhon Studio's main repo, which integrates all projects done by Dhon Stud
 1. Memudahkan user untuk menggunakan SaaS yang disediakan Dhon Studio
 
 ## Goals
-| Goal | Metrics|
+| Goal | Metrics |
 | ------------- | ------------- |
 | Seluruh user dan visitor dapat mengetahui layanan dan proyek Dhon Studio lebih mudah dalam satu website yang terhubung ke seluruh apps pendukung | User Growth |
 | Seluruh user dapat menggunakan SaaS melalui satu website terpusat yang terhubung ke seluruh SaaS yang disediakan | User Experience |
@@ -27,3 +23,31 @@ This is Dhon Studio's main repo, which integrates all projects done by Dhon Stud
 1. Daftar Layanan Dhon Studio
 1. Daftar Proyek Dhon Studio
 1. SSO Service untuk SaaS
+
+## Existing Features
+1. Landing Page
+
+## New Features
+1. Landing Page berisi Layanan dan Proyek yang pernah dikerjakan Dhon Studio
+1. SSO Service untuk seluruh Layanan (Wiki terpisah)
+
+## User Stories
+| Actors | Story | Priority | Notes |
+| ------------- | ------------- | ------------- | ------------- |
+| Visitor | Melihat layanan Dhon Studio pada Landing Page | must have | |
+| Visitor | Melihat daftar proyek yang pernah dikerjakan Dhon Studio pada Landing Page | must have | |
+| User | Melakukan login menggunakan SSO Service untuk dapat menggunakan Layanan Dhon Studio | must have | |
+
+## Milestones
+| Features | Sprint#1 |
+| ------------- | ------------- |
+
+## User Interaction and Design
+--
+
+## Question & Clarifications
+| Questions | Outcome|
+| ------------- | ------------- |
+
+### Not Doing
+--
